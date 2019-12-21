@@ -4,9 +4,5 @@
 The code is a CNN trained on the MNIST dataset with 60,000 record on the training set 10,000 on the test set with a final accuracy
 of 98%
 #  
-you're going to need python ,numpy, pillow, keras and tensorflow
-pip install pillow
-pip install numpy
-pip install keras
-pip install tensorflow
+
 
